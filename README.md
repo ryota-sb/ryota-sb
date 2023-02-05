@@ -7,3 +7,5 @@
   <!-- リポジトリステータス -->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryota-sb&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
+
+[Blog]: https://code-atelier.vercel.app/ "Code Atelier" :page_facing_up:
